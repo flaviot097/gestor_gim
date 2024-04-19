@@ -1,0 +1,79 @@
+.cabecera {
+  background-color: #2c58eb;
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  color: aliceblue !important;
+  justify-content: space-around;
+  padding-left: 14vh;
+}
+.contenedor-img-cabecera,
+.svg {
+  height: 85%;
+  text-decoration-color: aliceblue;
+  color: white !important ;
+  text-align: center;
+}
+.container-contenido {
+  background-color: #1abbfd;
+}
+.enlace {
+  text-decoration: none;
+  text-decoration-color: aliceblue !important;
+  text-decoration-style: none;
+  text-align: center;
+  color: white !important;
+  display: contents;
+}
+#Capa_1 {
+  fill: white;
+  margin-top: 7px;
+  height: 80% !important;
+}
+
+.table.table-bordered.border-primary {
+  margin-left: 10px;
+  margin-top: 3%;
+}
+.formulario {
+  margin-top: 3% !important;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+.form-label {
+  margin-left: 10px;
+}
+.btn.btn-primary {
+  margin-right: 30px;
+  margin-left: 10px;
+  width: 9% !important;
+}
+.svg-eliminar {
+  width: 4vh;
+}
+.btn-eliminar {
+  background-color: white !important;
+  border-color: transparent !important;
+  box-shadow: transparent;
+}
+table.table.table-bordered.border-primary.rutina {
+  width: 98% !important;
+}
+
+canvas {
+  display: block;
+  border: 1px solid #333;
+  margin: 5% auto;
+  margin: 2% auto;
+  width: 96%;
+}
+
+.nombre-musculo {
+  text-align: center !important;
+}
+
+#adinistrador {
+  height: inherit !important;
+}
